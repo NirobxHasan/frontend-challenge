@@ -46,14 +46,14 @@ Follow these steps to start the project:
 
 ### 2. **Print User Agent Without JavaScript**
    - Modify the user agent setup so it works even when JavaScript is disabled.
-
+ 
 ---
 
 ## **Loom Video**
 
 Watch this [Loom video](https://www.loom.com/share/d5c89a9824fe42858b45c802f5264ae0?sid=a69072cb-dc8d-426b-aea2-8e738ae2f491) for a full explanation of the challenges and to see a demo of the expected final result.
 
-Here is a link to the [Final Result (sample)](https://fe-test.intellixio.com/)
+Here is a link to the [Final Result (sample)](http s://fe-test.intellixio.com/)
 
 ---
 
