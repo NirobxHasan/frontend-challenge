@@ -1,5 +1,3 @@
-import { GetServerSideProps } from "next";
-import { UserAgentProvider } from "../components/providers/userAgentProvider";
 import "./globals.css";
 import { Layout } from "@/components/layout";
 import { headers } from 'next/headers'
