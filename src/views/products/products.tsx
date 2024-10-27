@@ -42,6 +42,7 @@ export const Products: React.FC = () => {
   }, []);
 
   const handleCloseModal = useCallback(() => {
+    router.push(`${pathname}`) // Fix
     setSelectedProduct(null);
   }, []);
 
